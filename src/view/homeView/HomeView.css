@@ -1,31 +1,50 @@
-.homeViewWrapper{
-	width: 100vw;
+.homeViewWrapper {
+  width: 100vw;
 }
-.homeviewWomenWrapper{
-	display:grid;
-	grid-template-columns:  repeat(5,1fr);
-	position: relative;
+.homeviewWomenWrapper {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  position: relative;
 }
-.HomeViewClothItems{
-	padding: 10px;
+.HomeViewClothItems {
+  padding: 10px;
 }
-.HomeViewClothTitle{
-	width: 75%;
+.HomeViewClothTitle {
+  width: 75%;
 }
-.HomeViewClothImage{
-	width: 15vw;
+.HomeViewClothImage {
+  width: 15vw;
 }
-.homeViewLineText{
-	text-align: center;
-	position: relative;
-	top:5px;
-	text-transform: uppercase;
+.homeViewLineText {
+  text-align: center;
+  position: relative;
+  top: 5px;
+  text-transform: uppercase;
 }
-.homeViewLine{
-	height: 10px;
-	background-color:#ff4444ad;
-	border:none;
+.homeViewLine {
+  height: 10px;
+  background-color: #ff4444ad;
+  border: none;
 }
-.linediv{
-	margin-top : 5vw;
+.linediv {
+  margin-top: 5vw;
 }
+.title {
+  text-align: center;
+  color: rgb(230, 161, 50);
+}
+.footer {
+  background-color: chocolate;
+  text-align: center;
+}
+img {
+  width: 400px;
+  height: 400px;
+  position: center;
+  transition: width 1s;
+}
+
+/* img:hover {
+  width: 300px;
+  height: 200px;
+} */
