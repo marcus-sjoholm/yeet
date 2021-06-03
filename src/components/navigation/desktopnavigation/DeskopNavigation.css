@@ -5,14 +5,20 @@
 	background-color: rgb(66, 248, 142);
 	padding:1rem;
 }
-.navigationHome{
-	grid-column: 4/5;
+.home{
+	width: 50px;
+	height: 50px;
+	grid-column: 2/3;
 }
 
-.navigationNews{
-	grid-column: 5/6;
+.gallery{
+	width: 50px;
+	height: 50px;
+	grid-column: 4/5;
 }
-.fact{
+.info{
+	width: 50px;
+	height: 50px;
 	grid-column: 6/7;
 }
 .navigationHome, .navigationNews, .fact{
