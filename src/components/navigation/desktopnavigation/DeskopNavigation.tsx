@@ -15,6 +15,7 @@ export const DeskopNavigation = () => {
 			<img src={HomeButton} className='home' onClick={() => history.push(RoutingPath.homeView)} />
 			<img src={GalleryButton} className='gallery' onClick={() => history.push(RoutingPath.galleryView)} />
 			<img src={InfoButton} className='info' onClick={() => history.push(RoutingPath.factView)} />
+
 		</div>
 	)
 }
