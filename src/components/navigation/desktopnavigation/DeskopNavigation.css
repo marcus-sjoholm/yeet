@@ -2,7 +2,7 @@
 	display: grid;
 	grid-template-columns:  repeat(20,1fr);
 	grid-template-rows: repeat(1,1fr);
-	background-color: #CCC;
+	background-color: rgb(66, 248, 142);
 	padding:1rem;
 }
 .navigationHome{
