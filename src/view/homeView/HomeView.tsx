@@ -16,11 +16,6 @@ export const HomeView = () => {
         src="https://order.se/thumb/99231/620x0/972-1752_2.jpg"
         alt="sengångare"
       ></img>
-      <footer className="footer">
-        <p>
-          <a href="mailto:sengångaren.com">sengångaren@ däggdjur.com</a>
-        </p>
-      </footer>
     </div>
   );
 };
