@@ -4,7 +4,7 @@ import './FactView.css'
 export const FactView = () => {
     return (
         <div>
-            <br/>
+            <br/> <br/>
             <button className="facts1">Sengångare är inte världens snabbaste simmare, 
             men den tretåiga sengångaren simmar bra mycket snabbare i vatten än vad den rör sig på land.</button> <br/>
             <button className="facts2">Vilda sengångare sover omkring 9,5 – 10 timmar per dygn, vilket innebär att den sover längre än de flesta människor. 
