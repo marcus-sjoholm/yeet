@@ -33,12 +33,33 @@
   text-align: center;
   color: rgb(230, 161, 50);
 }
-
 img {
   width: 400px;
   height: 400px;
   position: center;
   transition: width 1s;
+}
+img {
+  animation-duration: 1s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 100%;
+  }
+
+  75% {
+    font-size: 100%;
+    margin-left: 25%;
+    width: 100%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
 }
 
 /* img:hover {
