@@ -1,19 +1,65 @@
 .facts1 {
-    font-size: 45%;
+    border-radius: 4px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	background-color: rgb(247, 208, 244);
+	display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 150%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .facts2 {
-    
+    border-radius: 4px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	background-color: rgb(245, 241, 30);
+	display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 150%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .facts3 {
-    
+    border-radius: 4px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	background-color: rgb(111, 102, 235);
+	display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 150%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .facts4 {
-    
+    border-radius: 4px;
+	text-shadow: 0 1px 1px rgba(185, 62, 216, 0.2);
+	background-color: rgb(248, 110, 110);
+	display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 150%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .facts5 {
-    
+    border-radius: 4px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	background-color: rgb(155, 248, 155);
+	display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 150%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.facts6 {
+    border-radius: 4px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	background-color: rgb(155, 237, 248);
+	display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 150%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
