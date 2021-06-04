@@ -3,8 +3,11 @@ import './GalleryView.css'
 
 export const GalleryView = () => {
     return (
-        <div>
-            <img src="https://c402277.ssl.cf1.rackcdn.com/photos/14785/images/story_full_width/shutterstock_532108075.jpg?1512507049" alt="Error"/>
+        <div className="container">
+            <img src="https://c402277.ssl.cf1.rackcdn.com/photos/14785/images/story_full_width/shutterstock_532108075.jpg?1512507049" alt="Error" />
+            <div className="overlay">
+                <div className="text">Sengångare</div>
+            </div>
             <img src="https://c402277.ssl.cf1.rackcdn.com/photos/6520/images/story_full_width/iStock_000016816803XLarge_mini.jpg?1394631384" alt="Error" />
             <img src="https://image.shutterstock.com/image-vector/cute-baby-sloth-on-tree-260nw-1663962418.jpg" alt="Error" />
             <img src="https://ak.picdn.net/shutterstock/videos/1034583182/thumb/1.jpg" alt="Error" />
