@@ -4,9 +4,9 @@ import { Navigation } from './components/navigation/Navigation'
 
 export const App = () => {
 	return (
-			<Routes>
-				<Navigation />
-			</Routes>
+		<Routes>
+			<Navigation />
+		</Routes>
 	)
 }
 
